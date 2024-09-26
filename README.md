@@ -6,17 +6,17 @@ The scene in the film *Peppermint Candy* where flowers fall back onto the branch
 
 1. *Peppermint Candy*
 
-![An image of a screenshot of film peppermint candy](readmeImages\peppermintcandy.jfif)
+![An image of a screenshot of film peppermint candy](readmeImages/peppermintcandy.jfif)
 
 2. *Inception*
 
-![An image of a screenshot of film inception](readmeImages\Inception1.jfif)
+![An image of a screenshot of film inception](readmeImages/Inception1.jfif)
 
-![An image of a screenshot of film inception](readmeImages\Inception2.jfif)
+![An image of a screenshot of film inception](readmeImages/Inception2.jfif)
 
 ##  Coding Technique Exploration
 
 The project still uses **JavaScript** and **OOP** but explores new methods, such as creating a **Grid** that divides an image into smaller segments. Each segment is an object created using a **constructor**, and it has its own properties, such as **positionX, positionY and speedX, speedY**. The speed of each segment is randomly generated. After setting a start position and an end position, the segments can move, creating an **effect** where the image appears to explode or break apart from different positions. The **render** method is used to visually display the image segments.
 
-![An image of a screenshot of film inception](readmeImages\Imageeffect.jpg)
+![An image of a screenshot of film inception](readmeImages/Imageeffect.jpg)
 [Video Link - Learn Creative Coding: Image Effects](https://www.youtube.com/watch?v=UeZ1pTg_nMo)
