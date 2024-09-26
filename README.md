@@ -1,37 +1,22 @@
-# lzhe0080_9103_tut1
-# Head 1
-## Head 2
-### Head 3
-#### Head 4
-##### Head 5
-###### Head 6
+# Quiz 8
 
-My first repository for IDEA9103
+##  Imaging Technique Inspiration
 
-This is my first local change to the repo!
+The scene in the film *Peppermint Candy* where flowers fall back onto the branches on the train tracks, along with the scene in *Inception* where dreams explode into fragments, showcase a technique of **forming a whole from fragments**. I believe this can be combined with the **splattered paint effects** from the assignment examples to create an **animation effect** where the paint splatters, breaks apart, and then reassembles, potentially even incorporating **a timer** for **periodic fragmentation and recombination**. In works like The Scream this fragmentation further deepens the sense of unease conveyed by the piece itself.
 
-**Bold Text**
+1. *Peppermint Candy*
 
-*Italic Text*
+![An image of a screenshot of film peppermint candy](readmeImages\peppermintcandy.jfif)
 
-- Item 1
-- Item 2
-    - SubItem 1
+2. *Inception*
 
-1. Item 1
-2. Item 2
-4. Item 3
+![An image of a screenshot of film inception](readmeImages\Inception1.jfif)
 
-[Link Text](https://github.com/lzhe0080/lzhe0080_9103_tut1)
+![An image of a screenshot of film inception](readmeImages\Inception2.jfif)
 
-![An image of a cat](http://placekitten.com/200/300)
+##  Coding Technique Exploration
 
-![An image of Mona Lisa](readmeImages\Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
+The project still uses **JavaScript** and **OOP** but explores new methods, such as creating a **Grid** that divides an image into smaller segments. Each segment is an object created using a **constructor**, and it has its own properties, such as **positionX, positionY and speedX, speedY**. The speed of each segment is randomly generated. After setting a start position and an end position, the segments can move, creating an **effect** where the image appears to explode or break apart from different positions. The **render** method is used to visually display the image segments.
 
-```
-function helloworld(){
-    console.log("Hello World");
-}
-```
-
-> This is a blackquote
+![An image of a screenshot of film inception](readmeImages\Imageeffect.jpg)
+[Video Link - Learn Creative Coding: Image Effects](https://www.youtube.com/watch?v=UeZ1pTg_nMo)
